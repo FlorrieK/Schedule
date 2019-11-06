@@ -1,0 +1,108 @@
+table {
+
+    width: 80%;
+  }
+
+  body {
+
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    background-image: url('../media/img/pasr.jpg');
+  }
+
+  #time {
+
+    font-weight: bold;
+    border: 1px solid black;
+  }
+
+  #greek {
+
+    background-color:  #89f9b2;
+    border: 1px solid black;
+  }
+
+  #math {
+
+    background-color: #9eb2f1;
+    border: 1px solid black;
+  }
+
+  #advisory {
+
+    background-color: #d1fd52;
+    border: 1px solid black;
+  }
+
+  #dance {
+
+    background-color:  #fafd52;
+    border: 1px solid black;
+  }
+
+  #cw {
+
+    background-color:   #cf89eb;
+    border: 1px solid black;
+  }
+
+  #chinese {
+
+    background-color: #87e9ec;
+    border: 1px solid black;
+  }
+
+  #art {
+
+    background-color:   #f59595;
+    border: 1px solid black;
+  }
+
+  a:link, a:visited {
+
+     color: black;
+     font-weight: bold;
+  }
+
+  a:hover {
+
+    color: #cf89eb;
+    font-size: 100px;
+    font-weight: bold:
+  }
+
+  #eng {
+
+    background-color:  #aafd95;
+    border: 1px solid black;
+  }
+
+  #latin {
+
+    background-color:  #FEA7CE;
+    border: 1px solid black;
+  }
+
+  #hist {
+
+    background-color:  #fdb752;
+    border: 1px solid black;
+  }
+
+  #music {
+
+    background-color:  #fc35a7;
+    border: 1px solid black;
+  }
+
+  #chem {
+
+    background-color:  #a962f9;
+    border: 1px solid black;
+  }
+
+  #cs {
+
+    background-color:   #e5fa63;
+    border: 1px solid black;
+  }

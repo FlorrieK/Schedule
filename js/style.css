@@ -1,0 +1,102 @@
+body {
+
+  background-color: white;
+}
+
+table {
+
+  border: 1px solid white;
+  width: 70%;
+  border-collapse: collapse;
+}
+
+th {
+
+  border: 1px solid white;
+}
+
+td {
+
+  border: 1px solid white;
+  text-align: center;
+}
+
+th#my-name{
+
+  text-align: left;
+}
+
+th#year{
+
+  text-align: right;
+}
+
+td.greek {
+
+  background-color:  #89f9b2;
+}
+
+td.math {
+
+  background-color: #9eb2f1;
+}
+
+td.advisory {
+
+  background-color:   #d1fd52;
+}
+
+td.dance {
+
+  background-color:  #fafd52;
+}
+
+td.cw {
+
+  background-color:   #cf89eb;
+}
+
+td.chinese {
+
+  background-color: #87e9ec;
+}
+
+td.art {
+
+  background-color:   #f59595;
+}
+
+td.eng {
+
+  background-color:  #aafd95;
+}
+
+td.latin {
+
+  background-color:  #fca4e6;
+}
+
+td.hist {
+
+  background-color:  #fdb752;
+}
+
+th.meal, th.time, th.ppont, #my-name, #year {
+
+  background-color: white;
+}
+
+td.music {
+
+  background-color:  #fc35a7;
+}
+
+td.chem {
+
+  background-color:  #a962f9;
+}
+
+td.cs {
+
+  background-color:   #e5fa63;
+}
